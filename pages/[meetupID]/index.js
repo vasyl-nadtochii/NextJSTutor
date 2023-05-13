@@ -12,6 +12,8 @@ function MetupDetails(props) {
     );
 }
 
+// test comment added from CodeSandbox
+
 export async function getStaticPaths() {
 
     const client = await MongoClient
